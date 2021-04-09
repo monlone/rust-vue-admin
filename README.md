@@ -1,2 +1,2 @@
 # rust-vue-admin
-this is admin for rust with uve.
+this is admin for rust with vue.
